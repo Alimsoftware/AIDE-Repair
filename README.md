@@ -1,4 +1,4 @@
 # aide-repair
-AIDE+反混淆器  
-用于AIDE底包dex的类名 字段名 方法名的重命名 
-也适用于其它，规则文件需要自己写或用他工具生成  
+Desofuscador AIDE+ 
+Utilizado para renomear nomes de classes, nomes de campos e nomes de métodos do dex base do AIDE.
+Também é aplicável a outros, mas os arquivos de regras precisam ser escritos pelo próprio usuário ou gerados por outras ferramentas.
